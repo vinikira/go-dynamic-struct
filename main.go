@@ -16,8 +16,4 @@ func main() {
 	}
 
 	fmt.Println(resp)
-
-	// for k, v := range resp.Body {
-	// 	fmt.Println("k=%k v=%v \n", k, v)
-	// }
 }
